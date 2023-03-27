@@ -6,7 +6,11 @@
 }
 
 body {
-
+    font-family: Helvetica;
+    font-weight: normal;
+    font-size: 14px;
+    color: black;
+    text-align: left;
 }
 
 h1 {
@@ -35,4 +39,19 @@ h2 {
     font-size: 32px;
     font-weight: bold;
     color: white;
+    text-align: left:
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
 }
